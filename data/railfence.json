@@ -1,0 +1,62 @@
+[
+	{
+		"input": "Fence your message",
+		"output": "{\"reasoning\": \"The hint mentions 'fence'. The Rail Fence cipher is a type of transposition cipher that uses a fence-like pattern to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Up and down, side to side",
+		"output": "{\"reasoning\": \"The hint describes a zigzag pattern. The Rail Fence cipher encrypts messages by moving up and down, side to side, along a rail fence pattern. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Don't jump the fence",
+		"output": "{\"reasoning\": \"The hint mentions 'fence'. The Rail Fence cipher uses a fence-like pattern to encrypt messages. The phrase 'don't jump the fence' implies following the pattern, which is a key aspect of the Rail Fence cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Railway to secrecy",
+		"output": "{\"reasoning\": \"The hint mentions 'railway', which is related to 'rail'. The Rail Fence cipher uses rails to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Cross the bars",
+		"output": "{\"reasoning\": \"The hint mentions 'bars', which is similar to 'rails'. The Rail Fence cipher uses rails to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Ride the rails",
+		"output": "{\"reasoning\": \"The hint mentions 'rails', which is a key component of the Rail Fence cipher. The phrase 'ride the rails' implies following the pattern of the cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Get on the right track",
+		"output": "{\"reasoning\": \"The hint mentions 'track', which is related to 'rail'. The Rail Fence cipher uses rails to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Step over the fence",
+		"output": "{\"reasoning\": \"The hint mentions 'fence', which is a key component of the Rail Fence cipher. The phrase 'step over' implies moving along the fence pattern. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Follow the rail",
+		"output": "{\"reasoning\": \"The hint mentions 'rail', which is a key component of the Rail Fence cipher. The phrase 'follow the rail' implies following the pattern of the cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Switch tracks",
+		"output": "{\"reasoning\": \"The hint mentions 'tracks', which is related to 'rail'. The Rail Fence cipher uses rails to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Journey along the rails",
+		"output": "{\"reasoning\": \"The hint mentions 'rails', which is a key component of the Rail Fence cipher. The phrase 'journey along' implies following the pattern of the cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Rearrange the rails",
+		"output": "{\"reasoning\": \"The hint mentions 'rails', which is a key component of the Rail Fence cipher. The phrase 'rearrange the rails' implies rearranging the pattern of the cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Fence in the secret",
+		"output": "{\"reasoning\": \"The hint mentions 'fence', which is a key component of the Rail Fence cipher. The phrase 'fence in' implies enclosing the secret with the pattern of the cipher. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Railway to encryption",
+		"output": "{\"reasoning\": \"The hint mentions 'railway', which is related to 'rail'. The Rail Fence cipher uses rails to encrypt messages. Therefore the hint is a reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	},
+	{
+		"input": "Transposition on rails",
+		"output": "{\"reasoning\": \"The hint mentions 'transposition' and 'rails', which are key components of the Rail Fence cipher. Therefore the hint is a direct reference to the Rail Fence cipher.\", \"answer\": \"Rail Fence\"}"
+	}
+]

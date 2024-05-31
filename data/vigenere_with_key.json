@@ -1,0 +1,326 @@
+[
+	{
+		"input": "French Resistance. A member of the French Resistance during WWII had a secret message. Before he was caught, he whispered 'liberte' to his fellow comrades.",
+		"output": "{\"reasoning\": \"The title and hint are related to the French Resistance, which points to the Vigenere cipher, as Vigenere is a French name. The word 'liberte' stands out in this story and so it is probably the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"liberte\"}"
+	},
+	{
+		"input": "Vinegar Vault. An old recipe book was locked away in a mysterious vault. The only clue was a bottle of vinegar with the label 'authentique'.",
+		"output": "{\"reasoning\": \"The title and hint are related to 'vinegar', which is a word similar to Vigenere. The phrase 'authentique' stands out in the story, so it could act as the key. Since we have the key, we should use Vigenere.\", \"answer\": \"Vigenere With Key\", \"key\": \"authentique\"}"
+	},
+	{
+		"input": "French Diplomat. A French diplomat was accused of espionage and was interrogated. He only whispered 'guerre' before being taken away.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French diplomat, which points to the Vigenere cipher, as Vigenere is a French name. The word 'guerre' stands out in this story and so it is probably the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"guerre\"}"
+	},
+	{
+		"input": "French Codebreaker. A French cryptanalyst discovered a hidden message in a ancient manuscript. The message was encrypted with the keyword 'lumiere'.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French cryptanalyst, which points to the Vigenere cipher, as Vigenere is a French name. The word 'lumiere' stands out in this story and so it is probably the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"lumiere\"}"
+	},
+	{
+		"input": "The Red Vinegar. A secret recipe was hidden in an old cookbook. The only clue was a bottle of vinegar with the label 'rouge'.",
+		"output": "{\"reasoning\": \"The title and hint are related to 'vinegar', which is a word similar to Vigenere. The word 'rouge' stands out in this story and so it could act as the key. Since we have the key, we should use Vigenere With Key.\", \"answer\": \"Vigenere With Key\", \"key\": \"rouge\"}"
+	},
+	{
+		"input": "French Spy. A French spy was caught with a cryptic message. Before he was executed, he whispered 'reveille'.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French spy, which points to the Vigenere cipher, as Vigenere is a French name. The word 'reveille' stands out in this story and so it is probably the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"reveille\"}"
+	},
+	{
+		"input": "Secret Ingredient. A famous chef had a secret recipe, but it was encrypted. The only clue was a bottle of vinegar with the label 'finesse'.",
+		"output": "{\"reasoning\": \"The title and hint are related to 'vinegar', which is a word similar to Vigenere. The word 'finesse' stands out in this story and so it could act as the key. Since we have the key, we should use Vigenere With Key.\", \"answer\": \"Vigenere With Key\", \"key\": \"finesse\"}"
+	},
+	{
+		"input": "French Legacy. A French historian discovered a hidden message in an ancient document. The message was encrypted with the keyword 'patriote'.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French historian, which points to the Vigenere cipher, as Vigenere is a French name. The word 'patriote' stands out in this story and so it is probably the key.\", \"answer\": \"Vigenere With Key\" , \"key\": \"patriote\"}"
+	},
+	{
+		"input": "French Wine. A wine connoisseur encrypted his wine tasting notes with the phrase 'bourgogne'. Can you decrypt them?",
+		"output": "{\"reasoning\": \"The title and hint are related to French wine, pointing to a French theme. The word 'bourgogne' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"bourgogne\"}"
+	},
+	{
+		"input": "Secret Ingredient. A famous French chef encoded his secret recipe with the word 'cuisine'. Can you figure out what's cooking?",
+		"output": "{\"reasoning\": \"The title and hint are related to French cuisine, pointing to a French theme. The word 'cuisine' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"cuisine\"}"
+	},
+	{
+		"input": "Vinegar Solution. A chemist encoded a formula with the phrase 'acetic'. Can you decode it and find the solution?",
+		"output": "{\"reasoning\": \"The title and hint are related to 'vinegar', which is similar to Vigenere. The word 'acetic' stands out in this story and is likely the key. Since we have the key, we should use Vigenere With Key.\", \"answer\": \"Vigenere With Key\", \"key\": \"acetic\"}"
+	},
+	{
+		"input": "French Codebreaker. A French cryptanalyst used a cipher to decode enemy messages during WWII. The key was 'resistance'.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French cryptanalyst, pointing to a French theme. The word 'resistance' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"resistance\"}"
+	},
+	{
+		"input": "French Art. A French artist encoded a message in one of his paintings with the word 'impression'. Can you uncover the hidden meaning?",
+		"output": "{\"reasoning\": \"The title and hint are related to French art, pointing to a French theme. The word 'impression' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"impression\"}"
+	},
+	{
+		"input": "French Revolution. A secret society during the French Revolution used a cipher to communicate with each other. The key was 'liberation'.",
+		"output": "{\"reasoning\": \"The title and hint are related to the French Revolution, pointing to a French theme. The word 'liberation' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"liberation\"}"
+	},
+	{
+		"input": "Secret Recipe. A French patisserie encoded their famous croissant recipe with the word 'butter'. Can you decode it?",
+		"output": "{\"reasoning\": \"The title and hint are related to French pastries, pointing to a French theme. The word 'butter' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"butter\"}"
+	},
+	{
+		"input": "Vinegar Remedy. An old doctor encoded a remedy for indigestion with the phrase 'applecidervinegar'. Can you decode it?",
+		"output": "{\"reasoning\": \"The title and hint are related to 'vinegar', which is similar to Vigenere. The phrase 'applecidervinegar' stands out in this story and is likely the key. Since we have the key, we should use Vigenere With Key.\", \"answer\": \"Vigenere With Key\", \"key\": \"applecidervinegar\"}"
+	},
+	{
+		"input": "French Code. A French cryptographer used a cipher to encode a message with the key 'cipherfrancais'.",
+		"output": "{\"reasoning\": \"The title and hint are related to a French cryptographer, pointing to a French theme. The word 'cipherfrancais' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"cipherfrancais\"}"
+	},
+	{
+		"input": "French Literature. A 19th-century French novelist encoded a message in one of his books with the word 'romantique'. Can you uncover the hidden meaning?",
+		"output": "{\"reasoning\": \"The title and hint are related to French literature, pointing to a French theme. The word 'romantique' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"romantique\"}"
+	},
+	{
+		"input": "Bastille Day. During the French Revolution, a secret message was encoded with the phrase 'vive la france' to coordinate the storming of the Bastille.",
+		"output": "{\"reasoning\": \"The title and hint reference the French Revolution and Bastille Day, pointing to a French theme. The phrase 'vive la france' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"vivelafrance\"}"
+	},
+	{
+		"input": "Liberté, Égalité, Fraternité. A secret society during the French Revolution used a cipher to communicate with each other. The key was 'egalite'.",
+		"output": "{\"reasoning\": \"The title and hint reference the French Revolution and its motto, pointing to a French theme. The word 'egalite' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"egalite\"}"
+	},
+	{
+		"input": "French Resistance. During WWII, a French resistance leader encoded a message with the word 'vivant' to coordinate with the Allies.",
+		"output": "{\"reasoning\": \"The title and hint reference the French Resistance during WWII, pointing to a French theme. The word 'vivant' stands out in this story and is likely the key. The French theme and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"vivant\"}"
+	},
+	{
+		"input": "The Father of Ciphers. Blaise de Vigenere, a French cryptographer, invented a cipher that used a keyword to encrypt messages. The keyword was 'password'.",
+		"output": "{\"reasoning\": \"The title and hint directly reference Blaise de Vigenere, the inventor of the Vigenere cipher. The word 'password' stands out in this story and is likely the key. The direct mention of Vigenere and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"password\"}"
+	},
+	{
+		"input": "Traité des Chiffres. Blaise de Vigenere wrote a book on cryptography, 'Traité des Chiffres', where he introduced his famous cipher. The key was 'cryptographie'.",
+		"output": "{\"reasoning\": \"The title and hint reference Blaise de Vigenere's book on cryptography, pointing to the Vigenere cipher. The word 'cryptographie' stands out in this story and is likely the key. The direct reference to Vigenere's work and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"cryptographie\"}"
+	},
+	{
+		"input": "Vigenere's Cipher. Blaise de Vigenere invented a polyalphabetic cipher that used a keyword to encrypt messages. The keyword was 'unbreakable'.",
+		"output": "{\"reasoning\": \"The title and hint directly reference the Vigenere cipher, pointing to Blaise de Vigenere's invention. The word 'unbreakable' stands out in this story and is likely the key. The direct mention of Vigenere's cipher and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"unbreakable\"}"
+	},
+	{
+		"input": "The Undecipherable Cipher. Blaise de Vigenere's cipher was considered unbreakable for centuries. The key was 'undecipherable'.",
+		"output": "{\"reasoning\": \"The title and hint reference the Vigenere cipher's reputation for being unbreakable, pointing to Blaise de Vigenere's invention. The word 'undecipherable' stands out in this story and is likely the key. The direct reference to Vigenere's cipher and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"undecipherable\"}"
+	},
+	{
+		"input": "A French Cryptographer. Blaise de Vigenere, a French cryptographer, invented a cipher that used a keyword to encrypt messages. The keyword was 'encrypt'.",
+		"output": "{\"reasoning\": \"The title and hint directly reference Blaise de Vigenere, a French cryptographer, pointing to the Vigenere cipher. The word 'encrypt' stands out in this story and is likely the key. The direct mention of Vigenere and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"encrypt\"}"
+	},
+	{
+		"input": "The Cryptographer's Secret. Blaise de Vigenere, a French cryptographer, used his own cipher to encrypt a message to his beloved, 'amourvrai'.",
+		"output": "{\"reasoning\": \"The title and hint reference Blaise de Vigenere, the inventor of the Vigenere cipher, pointing to the Vigenere cipher. The word 'amourvrai' stands out in this story and is likely the key. The direct reference to Vigenere and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"amourvrai\"}"
+	},
+	{
+		"input": "The Cipher of Love. Blaise de Vigenere, a romantic at heart, used his cipher to encode love letters to his mistress, 'mademoiselle'.",
+		"output": "{\"reasoning\": \"The title and hint reference Blaise de Vigenere, the inventor of the Vigenere cipher, pointing to the Vigenere cipher. The word 'mademoiselle' stands out in this story and is likely the key. The direct reference to Vigenere and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"mademoiselle\"}"
+	},
+	{
+		"input": "The Spy Who Loved Ciphers. Blaise de Vigenere, a spy for the French government, used his cipher to encrypt messages to his handler, 'espionnage'.",
+		"output": "{\"reasoning\": \"The title and hint reference Blaise de Vigenere, the inventor of the Vigenere cipher, pointing to the Vigenere cipher. The word 'espionnage' stands out in this story and is likely the key. The direct reference to Vigenere and the presence of a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"espionnage\"}"
+	},
+	{
+		"input": "The Mysterious Code. A secret society used a polyalphabetic cipher to encrypt their messages, with the keyword 'mysterycode'.",
+		"output": "{\"reasoning\": \"The title and hint reference a polyalphabetic cipher, pointing to the Vigenere cipher. The word 'mysterycode' stands out in this story and is likely the key. The presence of a polyalphabetic cipher and a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"mysterycode\"}"
+	},
+	{
+		"input": "The Cipher of Secrets. A group of spies used a polyalphabetic cipher to encrypt their communications, with the keyword 'secretagent'.",
+		"output": "{\"reasoning\": \"The title and hint reference a polyalphabetic cipher, pointing to the Vigenere cipher. The word 'secretagent' stands out in this story and is likely the key. The presence of a polyalphabetic cipher and a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"secretagent\"}"
+	},
+	{
+		"input": "The Code of the Ancients. An ancient civilization used a polyalphabetic cipher to encode their sacred texts, with the keyword 'ancientcode'.",
+		"output": "{\"reasoning\": \"The title and hint reference a polyalphabetic cipher, pointing to the Vigenere cipher. The word 'ancientcode' stands out in this story and is likely the key. The presence of a polyalphabetic cipher and a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"ancientcode\"}"
+	},
+	{
+		"input": "The Cipher of the Gods. A mythical civilization used a polyalphabetic cipher to communicate with their gods, with the keyword 'divine'.",
+		"output": "{\"reasoning\": \"The title and hint reference a polyalphabetic cipher, pointing to the Vigenere cipher. The word 'divine' stands out in this story and is likely the key. The presence of a polyalphabetic cipher and a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"divine\"}"
+	},
+	{
+		"input": "The Code of the Illuminati. A secret society used a polyalphabetic cipher to encrypt their messages, with the keyword 'enlightenment'.",
+		"output": "{\"reasoning\": \"The title and hint reference a polyalphabetic cipher, pointing to the Vigenere cipher. The word 'enlightenment' stands out in this story and is likely the key. The presence of a polyalphabetic cipher and a key suggest the use of the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"enlightenment\"}"
+	},
+	{
+		"input": "The Tollmaster's Secret. The old tollmaster whispers to you, \"To pass through these gates, use the word 'dungeon' to reveal the truth.\"",
+		"output": "{\"reasoning\": \"The hint mentions a specific word, 'dungeon', which is likely a key. The presence of a key word suggests a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"dungeon\"}"
+	},
+	{
+		"input": "Unreadable. You spot an old book at an antique shop, but all the text is unreadable. The shopkeeper winks at you and tells you to use the code word 'atlantis'.",
+		"output": "{\"reasoning\": \"The hint mentions a code word, 'atlantis'. The presence of a code word suggests a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"atlantis\"}"
+	},
+	{
+		"input": "The Polyalphabetic Puzzle. You stumble upon an ancient manuscript with a note that reads, \"To decipher the text, use the keyword 'polygon'.\"",
+		"output": "{\"reasoning\": \"The hint explicitly mentions a polyalphabetic cipher and provides a keyword, 'polygon'. Vigenere is a well-known polyalphabetic cipher, making it the likely solution.\", \"answer\": \"Vigenere With Key\", \"key\": \"polygon\"}"
+	},
+	{
+		"input": "The FBI wants to talk. An FBI agent gives me a handkerchief with a bunch of gibberish on it. On the bottom of the handkerchief is a word: 'triad'.",
+		"output": "{\"reasoning\": \"The hint mentions a word that seems to stand out, 'triad'. This suggest we should use Vigenere with the key 'triad'.\", \"answer\": \"Vigenere With Key\", \"key\": \"triad\"}"
+	},
+	{
+		"input": "The Acidic Code. A cryptic message reads, \"Where acid meets water, use the word 'vinegar' to unlock the secrets of the solution.\"",
+		"output": "{\"reasoning\": \"The hint mentions vinegar, a common household acid, and suggests using it as a key. The presence of a key word suggests a polyalphabetic cipher. Vigenere is the most popular polyalphabetic cipher, so it is likely the answer. The presence of th word 'vinegar' in the hint reinforces this, as 'vinegar' is similar to the word 'Vigenere'.\", \"answer\": \"Vigenere With Key\", \"key\": \"vinegar\"}"
+	},
+	{
+		"input": "The Ethanoic Cipher. A laboratory note reads, 'To reveal the chemical structure, use the code word 'ethanoic' to unlock the secrets of vinegar's acid composition.'",
+		"output": "{\"reasoning\": \"The hint mentions ethanoic, another name for acetic acid, a main component of vinegar. The similarity between the names 'vinegar' and 'Vigenere' points to the Vigenere cipher as the likely solution.\", \"answer\": \"Vigenere With Key\", \"key\": \"ethanoic\"}"
+	},
+	{
+		"input": "The Vinegar Cipher. A chemistry exam has a hidden message, \"To pass this test, use the code word 'ochem' to unlock the real answer.\"",
+		"output": "{\"reasoning\": \"The hint mentions vinegar. The similarity between the names 'vinegar' and 'Vigenere' points to the Vigenere cipher as the likely solution. The word 'ochem' stands out in this story, which means it is likely the key word.\", \"answer\": \"Vigenere With Key\", \"key\": \"ochem\"}"
+	},
+	{
+		"input": "The Balsamic Cipher. A culinary textbook has a hidden message, 'To decode the recipe, use the code word 'balsamic' to unlock the secrets of traditional Italian vinegar.'",
+		"output": "{\"reasoning\": \"The hint mentions balsamic, a type of vinegar known for its rich flavor and aroma. The similarity between the names 'vinegar' and 'Vigenere' points to the Vigenere cipher as the likely solution.\", \"answer\": \"Vigenere With Key\", \"key\": \"balsamic\"}"
+	},
+	{
+		"input": "The Mysterious Island. You're stranded on a deserted island and find a cryptic message. The only clue is a piece of paper with the word 'casino' scribbled on it.",
+		"output": "{\"reasoning\": \"The hint mentions a single word, 'casino', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"casino\"}"
+	},
+	{
+		"input": "The Alchemist's Secret. You stumble upon an ancient alchemy manuscript with encrypted notes. A margin note reads, 'Add a dash of 'aurum' to reveal the truth.'",
+		"output": "{\"reasoning\": \"The hint mentions a keyword, 'aurum', which is Latin for gold. The presence of a keyword suggests a polyalphabetic cipher, and the alchemy theme hints at a complex encryption method like Vigenere.\", \"answer\": \"Vigenere With Key\", \"key\": \"aurum\"}"
+	},
+	{
+		"input": "The Spy's Dilemma. You intercept a coded message from a rival spy agency. The message begins with, \"Use the password 'falcon' to decode.\"",
+		"output": "{\"reasoning\": \"The hint mentions a password, 'falcon', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"falcon\"}"
+	},
+	{
+		"input": "The Forgotten Formula. You discover an old chemistry textbook with a cryptic formula. A note in the margin reads, 'acetic is the key to unlocking the code.'",
+		"output": "{\"reasoning\": \"The hint mentions acetic acid, which is the main component of vinegar. The similarity between 'vinegar' and 'Vigenere' suggests that Vigenere is the encryption method used.\", \"answer\": \"Vigenere With Key\", \"key\": \"acetic\"}"
+	},
+	{
+		"input": "The Pirate's Treasure. You find a treasure map with a cryptic message. The map has a note that reads, \"Use the Jolly Roger's motto 'anarchy' to find the loot.\"",
+		"output": "{\"reasoning\": \"The hint mentions a motto, 'anarchy', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"anarchy\"}"
+	},
+	{
+		"input": "The Lost City. You stumble upon an ancient scroll with a cryptic message. The scroll has a note that reads, 'Use the password \"olympus\" to unlock the secrets.'",
+		"output": "{\"reasoning\": \"The hint mentions a password, 'olympus', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"olympus\"}"
+	},
+	{
+		"input": "The Whispering Walls. You explore an abandoned mansion and find a cryptic message on the wall. A faint whispering voice says, 'The key is \"silence\".'",
+		"output": "{\"reasoning\": \"The hint mentions a keyword, 'silence', which suggests a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"silence\"}"
+	},
+	{
+		"input": "The Forgotten Diary. You find an old diary with a cryptic entry. The entry reads, 'Use the code word \"starlight\" to reveal the truth.'",
+		"output": "{\"reasoning\": \"The hint mentions a code word, 'starlight', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"starlight\"}"
+	},
+	{
+		"input": "The Mysterious Recipe. You discover an old cookbook with a cryptic recipe. A note in the margin reads, 'Add a dash of \"basil\" to unlock the flavors.'",
+		"output": "{\"reasoning\": \"The hint mentions a keyword, 'basil', which is similar to the concept of a key in a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"basil\"}"
+	},
+	{
+		"input": "The Secret Society. You infiltrate a secret society and find a cryptic message. The message reads, 'Use the password \"luminous\" to unlock the secrets.'",
+		"output": "{\"reasoning\": \"The hint mentions a password, 'luminous', which suggests a keyword for a polyalphabetic cipher. Vigenere is the most widely-used polyalphabetic cipher, so it is probably the answer.\", \"answer\": \"Vigenere With Key\", \"key\": \"luminous\"}"
+	},
+	{
+		"input": "The Kitchen Secret. While touring a kitchen, you stumble upon an old recipe book with a cryptic message. The recipe for the finest vinegar starts with 'catalina' and ends with a mysterious code.",
+		"output": "{\"reasoning\": \"The hint mentions vinegar, which is similar to Vigenere. The presence of a key word 'catalina' suggests we should use Vigenere with 'catalina' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"catalina\"}"
+	},
+	{
+		"input": "Poly Code. Decode the message using a polyalphabetic cipher. The keyword is 'avalon'.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions a polyalphabetic cipher, which points to Vigenere, the most widely used polyalphabetic cipher. The presence of a key word 'avalon' suggests we should use Vigenere with 'avalon' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"avalon\"}"
+	},
+	{
+		"input": "The Lost City. Archaeologists discovered an ancient text that speaks of a lost city. The text is encrypted, but the first line reads 'Use celia to uncover the truth'.",
+		"output": "{\"reasoning\": \"The hint mentions a key word 'celia', which suggests we should use Vigenere with 'celia' as the key. The presence of a key implies a polyalphabetic cipher, and Vigenere is a popular choice.\", \"answer\": \"Vigenere With Key\", \"key\": \"celia\"}"
+	},
+	{
+		"input": "The French Connection. A mysterious letter from the 19th century has a hidden message. The letter is signed 'blaise'.",
+		"output": "{\"reasoning\": \"The hint mentions a name 'Blaise', which is a reference to the French cryptographer Blaise de Vigenere. This suggests that we should use the Vigenere cipher. The word 'blaise' seems to stand out, which suggests that we should use it as a key.\", \"answer\": \"Vigenere With Key\", \"key\": \"raphael\"}"
+	},
+	{
+		"input": "The Acetic Code. A chemistry textbook has a cryptic message hidden in the section on acetic acid, the main component of vinegar. The keyword is 'juliet'.",
+		"output": "{\"reasoning\": \"The hint mentions acetic acid, which is similar to Vigenere. The presence of a key word 'juliet' suggests we should use Vigenere with 'juliet' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"juliet\"}"
+	},
+	{
+		"input": "The Poly Puzzle. A puzzle book has a cryptic message that requires a polyalphabetic cipher to decode. The hint is 'use adriana to unlock the answer'.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions a polyalphabetic cipher, which points to Vigenere. The presence of a key word 'adriana' suggests we should use Vigenere with 'adriana' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"adriana\"}"
+	},
+	{
+		"input": "The Secret Society. A mysterious society has a hidden message in their manifesto. The message starts with 'use valencia to reveal the truth'.",
+		"output": "{\"reasoning\": \"The hint mentions a key word 'valencia', which suggests we should use Vigenere with 'valencia' as the key. The presence of a hidden message also implies a cipher, and Vigenere is a popular choice.\", \"answer\": \"Vigenere With Key\", \"key\": \"valencia\"}"
+	},
+	{
+		"input": "The Cipher Scroll. An ancient scroll has a cryptic message that requires a keyword to decode. The keyword is 'sienna', and the message is said to reveal a long-lost secret.",
+		"output": "{\"reasoning\": \"The hint mentions a key word 'sienna', which suggests we should use Vigenere with 'sienna' as the key. The presence of an ancient scroll and a cryptic message also implies a cipher, and Vigenere is a popular choice.\", \"answer\": \"Vigenere With Key\", \"key\": \"sienna\"}"
+	},
+	{
+		"input": "The Forgotten Formula. An old chemistry textbook has a cryptic message hidden in the section on acetic acid. The keyword is 'aurora'.",
+		"output": "{\"reasoning\": \"The hint mentions acetic acid, a component of vinegar. This is a reference to the similarity between the word 'vinegar' and the cipher 'Vigenere'. The presence of a key word 'aurora' suggests we should use the Vigenere cipher with 'aurora' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"aurora\"}"
+	},
+	{
+		"input": "The Polyphonic Cipher. A music composer has a hidden message in their score. The message is encrypted using a polyalphabetic cipher, and the keyword is 'luna'.",
+		"output": "{\"reasoning\": \"The hint mentions a polyalphabetic cipher, which points to Vigenere. The presence of a key word 'luna' suggests we should use Vigenere with 'luna' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"luna\"}"
+	},
+	{
+		"input": "The Mysterious Manuscript. A medieval manuscript has a cryptic message that requires a keyword to decode. The keyword is 'elara', and the message is said to reveal a royal secret.",
+		"output": "{\"reasoning\": \"The hint mentions a keyword, which implies a polyalphabetic cipher. The Vigenere cipher is the most popular polyalphabetic cipher. The presence of a key word 'elara' suggests we should use Vigenere with 'elara' as the key. Vigenere is a popular choice for polyalphabetic ciphers.\", \"answer\": \"Vigenere With Key\", \"key\": \"elara\"}"
+	},
+	{
+		"input": "The Cryptic Chronicle. A historical chronicle has a hidden message that requires a polyalphabetic cipher to decode. The keyword is 'sabine'.",
+		"output": "{\"reasoning\": \"The hint mentions a polyalphabetic cipher, which points to the polyalphabetic cipher Vigenere. The presence of a key word 'sabine' suggests we should use Vigenere with 'sabine' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"sabine\"}"
+	},
+	{
+		"input": "The Hidden Heritage. A family heirloom has a cryptic message that requires a keyword to decode. The keyword is 'calantha', and the message is said to reveal a family secret.",
+		"output": "{\"reasoning\": \"The hint mentions a family heirloom, which implies a personal cipher. The presence of a key word 'calantha' suggests we should use Vigenere with 'calantha' as the key. Vigenere is a popular choice for polyalphabetic ciphers.\", \"answer\": \"Vigenere With Key\", \"key\": \"calantha\"}"
+	},
+	{
+		"input": "The Vigenere Vault. Use the Vigenere cipher with the keyword 'cassandra' to unlock the secret message.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the keyword 'cassandra'. This is a clear instruction to use Vigenere with 'cassandra' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"cassandra\"}"
+	},
+	{
+		"input": "The Cipher Code. Decode the message using the Vigenere cipher with the keyword 'astrid'.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the keyword 'astrid'. This is a clear instruction to use Vigenere with 'astrid' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"astrid\"}"
+	},
+	{
+		"input": "The Encryption Enigma. Use the Vigenere cipher with the keyword 'kaelin' to reveal the hidden message.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the keyword 'kaelin'. This is a clear instruction to use Vigenere with 'kaelin' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"kaelin\"}"
+	},
+	{
+		"input": "The Decryption Dilemma. Decrypt the message using the Vigenere cipher with the keyword 'vivian'.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the keyword 'vivian'. This is a clear instruction to use Vigenere with 'vivian' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"vivian\"}"
+	},
+	{
+		"input": "The Cryptic Conundrum. Use the Vigenere cipher with the keyword 'elias' to uncover the secret.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the keyword 'elias'. This is a clear instruction to use Vigenere with 'elias' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"elias\"}"
+	},
+	{
+		"input": "The Cipher Conundrum. What is a popular polyalphabetic cipher that uses a keyword like 'lucia'?",
+		"output": "{\"reasoning\": \"The hint asks about a popular polyalphabetic cipher, which points to Vigenere. The presence of a key word 'lucia' suggests we should use Vigenere with 'lucia' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"lucia\"}"
+	},
+	{
+		"input": "The French Connection. Who was a famous French cryptographer who developed a polyalphabetic cipher? Use the keyword 'french'.",
+		"output": "{\"reasoning\": \"The hint asks about a famous French cryptographer, which points to Vigenere. Vigenere is a French cipher, and the hint implies we should use it. The hint also instructs us to use 'french' as the keyword.\", \"answer\": \"Vigenere With Key\", \"key\": \"french\"}"
+	},
+	{
+		"input": "The Encryption Enigma. What cipher is like a Caesar cipher, but the shifts are determined by a word, and can be used with a keyword like 'avalon'?",
+		"output": "{\"reasoning\": \"The hint describes a cipher shifts determined by a word, which points to Vigenere. The presence of a key word 'avalon' suggests we should use Vigenere with 'avalon' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"avalon\"}"
+	},
+	{
+		"input": "The Cryptic Code. What polyalphabetic cipher is commonly used with a keyword like 'celine'?",
+		"output": "{\"reasoning\": \"The hint asks about a polyalphabetic cipher, which points to Vigenere. Vigenere is the most commonly used polyalphabetic cipher. The presence of a key word 'celine' suggests we should use Vigenere with 'celine' as the key.\", \"answer\": \"Vigenere With Key\", \"key\": \"celine\"}"
+	},
+	{
+		"input": "Word Shift. The key is 'wordle'.",
+		"output": "{\"reasoning\": \"The presence of a key word implies that the answer is Vigenere, a polyalphabetic cipher. This is reinforced by the fact that the title says 'word shift', because the Vigenere cipher works by using a word to determine how much a plaintext should shift.\", \"answer\": \"Vigenere With Key\", \"key\": \"wordle\"}"
+	},
+	{
+		"input": "A Sour Condiment. The key is 'paris'.",
+		"output": "{\"reasoning\": \"The presence of a key word implies that we should use the Vigenere cipher, a polyalphabetic cipher. This is reinforced by the fact that the title is 'A Sour Condiment', which is a reference to vinegar, which is sour. The word 'vinegar' is similar to the word 'Vigenere'.\", \"answer\": \"Vigenere With Key\", \"key\": \"paris\"}"
+	},
+	{
+		"input": "The Cryptographer's Secret. You find a hidden message that says 'luna'. at the back of the Traite des Chiffres",
+		"output": "{\"reasoning\": \"The hint mentions the Traite des Chiffres, a book written by Blaise de Vigenere. That and the presence of a hidden message at the back of the book suggest we should use the Vigenere cipher with the keyword 'luna'.\", \"answer\": \"Vigenere With Key\", \"key\": \"luna\"}"
+	},
+	{
+		"input": "Vigenere Decryption. Decrypt the message using the Vigenere cipher with the key 'LUMIERE'.",
+		"output": "{\"reasoning\": \"The hint explicitly mentions the Vigenere cipher and provides the key 'LUMIERE'. This is a clear instruction to use the Vigenere cipher with the key 'LUMIERE'.\", \"answer\": \"Vigenere With Key\", \"key\": \"LUMIERE\"}"
+	},
+	{
+		"input": "La Cryptographie. The key is 'LUMIERE'.",
+		"output": "{\"reasoning\": \"The title is in French, which suggests a Vigenere cipher, as Vigenere was a French cryptographer. The hint provides the key 'LUMIERE', which is likely to be used with the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"LUMIERE\"}"
+	},
+	{
+		"input": "La Boîte à Chiffres. The key is 'ADELAIDE'.",
+		"output": "{\"reasoning\": \"The title is in French, which suggests a Vigenere cipher, as Vigenere was a French cryptographer. The hint provides the key 'ADELAIDE', which is likely to be used with the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"ADELAIDE\"}"
+	},
+	{
+		"input": "Le Message Caché. The key is 'BEATRIX'.",
+		"output": "{\"reasoning\": \"The title is in French, which suggests a Vigenere cipher, as Vigenere was a French cryptographer. The hint provides the key 'BEATRIX', which is likely to be used with the Vigenere cipher.\", \"answer\": \"Vigenere With Key\", \"key\": \"BEATRIX\"}"
+	}
+]

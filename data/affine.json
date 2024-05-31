@@ -1,0 +1,402 @@
+[
+	{
+		"input": "A Fine Morning",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I have an affinity for this cipher!",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I'm fine. What is a fine cipher to use?",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. The hint uses the words 'a fine', which when put together looks like the word 'affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "That's a fine looking high horse",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Tuning Ciphers",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I have a fine appreciation for cryptography!",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Cipher with Affinity",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Cryptography What cipher has an affinity with algebra?",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. The hint uses the word 'affinity', which is related to the word Affine. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A fine cipher is one that's elegant and simple.",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-Line Cryptography",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Balance in Cryptography",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptography with a Fine Touch Algebraic ciphers are my affinity.",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. The hint uses the word 'affinity', which is related to the word Affine. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Ask the cipher how it's doing. It will say it's fine.",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I'm looking for a fine-grained cipher solution.",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-Tuning Encryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I have a certain affinity for this encryption method.",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Line Between Encryption and Decryption",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptography with a Fine Edge Algebraic ciphers are the key.",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. The hint suggests that the answer is an algebraic cipher, which is a characteristic of the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "This cipher is fine-tuned for maximum security.",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Line",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-tuning cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affinity for Encryption Find the connection",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "The Fine Art of Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I have a fine appreciation for cryptography",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Tuning Cipher Parameters",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A fine balance between security and efficiency",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Affinity Groups",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "What's fine about this cipher?",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Enjoy the Finer Things in Life",
+		"output": "{\"reasoning\": \"The hint uses the word 'finer', which is related to 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Tuning",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I have a fine appreciation for cryptography",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Elements of Cryptography Electron affinity is key",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Selection Choose a fine cipher for encryption",
+		"output": "{\"reasoning\": \"The hint uses the words 'a fine', which when put together looks like the word 'affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptography Fundamentals Understand the affinity between encryption and decryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Art of Encryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "The affinity between plaintext and ciphertext is crucial",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Line Between Encryption and Decryption",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptographic Techniques Fine-tune your encryption skills",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Selection Criteria Look for a fine balance between security and efficiency",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affinity for Encryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-grained control over encryption parameters",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Cipher for Secure Communication",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptanalysis Techniques Look for affinity in the ciphertext",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Encryption Fundamentals Understand the fine details of cipher design",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-Tuning Encryption Algorithms",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher affinity is key to encryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Balance Between Security and Efficiency",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Selection Criteria Look for fine-grained control",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Encryption Techniques Understand affinity in cryptography",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Art of Cryptography",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher affinity is crucial for secure communication",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Line Between Encryption and Decryption Look for affinity",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptographic Fundamentals Fine-tune your encryption skills",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Design Principles Look for a fine balance between security and efficiency",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Grain Cryptography",
+		"output": "{\"reasoning\": \"The hint contains the words 'fine grain', which is similar to 'a fine' and looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affinity is key to decryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Cipher for Secure Data",
+		"output": "{\"reasoning\": \"The hint contains the words 'a fine', which when put together looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptography Fundamentals Fine-tune your decryption skills",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Analysis Techniques Look for affinity in the ciphertext",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Art of Decryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher affinity is crucial for decryption",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Line Between Encryption and Decryption Look for fine-grained control",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cryptographic Techniques Fine-tune your encryption parameters",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is part of the word 'Affine'. This suggests that the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Design Principles Look for affinity in the cipher design",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Dining and Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "The Finer Points of Encryption",
+		"output": "{\"reasoning\": \"The hint uses the word 'finer', which is related to 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A Fine Day for Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Tuning Your Encryption Skills",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "The Finest Cryptographic Techniques",
+		"output": "{\"reasoning\": \"The hint uses the word 'finest', which is related to 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Art of Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Finer Details of Cipher Design",
+		"output": "{\"reasoning\": \"The hint uses the word 'finer', which is related to 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Line Between Encryption and Decryption",
+		"output": "{\"reasoning\": \"The hint uses the word 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "The Finest Hour of Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the word 'finest', which is related to 'fine', which is part of the word 'Affine'. This suggests that the answer is to use the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine Grain Cryptography",
+		"output": "{\"reasoning\": \"The hint uses the words 'fine grain', which is similar to 'a fine' and looks like the word 'affine'. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Using Modular Arithmetic Multiply and add to encrypt",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses modular arithmetic and involves multiplication and addition. This matches the description of the Affine cipher, which uses modular arithmetic and involves multiplication and addition to encrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Modular Cipher with Two Keys One key for multiplication, one key for addition",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses modular arithmetic and involves two keys, one for multiplication and one for addition. This matches the description of the Affine cipher, which uses modular arithmetic and involves two keys, one for multiplication and one for addition, to encrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Using Linear Equations Solve for x to decrypt",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses linear equations and involves solving for x to decrypt. This matches the description of the Affine cipher, which uses linear equations and involves solving for x to decrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Modular Arithmetic Cipher with Shift Add a constant to encrypt",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses modular arithmetic and involves adding a constant to encrypt. This matches the description of the Affine cipher, which uses modular arithmetic and involves adding a constant to encrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Linear Cipher with Modular Arithmetic Use a modulus to encrypt",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses linear arithmetic and involves using a modulus to encrypt. This matches the description of the Affine cipher, which uses linear arithmetic and involves using a modulus to encrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Cipher Using Algebraic Structures Use a group operation to encrypt",
+		"output": "{\"reasoning\": \"The hint describes a cipher that uses algebraic structures and involves using a group operation to encrypt. This matches the description of the Affine cipher, which uses algebraic structures and involves using a group operation to encrypt. Therefore, the answer is the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "A famous cryptographer had an affinity for this particular cipher",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity', which is related to the word Affine. Therefore the hint is a reference to the Affine cipher..\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Get ready for a linear transformation...",
+		"output": "{\"reasoning\": \"The hint references a linear transformation, which is a key concept in the Affine cipher. The Affine cipher involves a linear transformation of the plaintext to produce the ciphertext. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Modular arithmetic is my game!",
+		"output": "{\"reasoning\": \"The hint references modular arithmetic, which is a key concept in the Affine cipher. The Affine cipher uses modular arithmetic to perform the encryption and decryption. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affix a coefficient to each letter...",
+		"output": "{\"reasoning\": \"The hint references affixing a coefficient to each letter, which is a key step in the Affine cipher. The Affine cipher involves multiplying each letter by a coefficient and then adding a constant to produce the ciphertext. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "This cipher is a fine choice for encryption.",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine', which is a play on the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "I've found a fine line between encryption and decryption.",
+		"output": "{\"reasoning\": \"The hint contains the word 'fine line', which is a play on the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affinity for encryption is a fine thing.",
+		"output": "{\"reasoning\": \"The hint contains the word 'affinity' and 'fine', which are both related to the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "This cipher is finely tuned for security.",
+		"output": "{\"reasoning\": \"The hint contains the word 'finely', which is a play on the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Fine-tune your encryption skills with this cipher.",
+		"output": "{\"reasoning\": \"The hint contains the phrase 'fine-tune', which is a play on the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "Affine to be a great encryption method.",
+		"output": "{\"reasoning\": \"The hint contains the phrase 'affine to', which is a play on the word Affine. Therefore the hint is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFFable lINEs",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AFF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "He is AFraid of the mINE",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "After the AFternoon sINE",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFFectionate lINEs",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AFF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFter the FINEst hour",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFFable sINE waves",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AFF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "He is AFraid of the AFFINE",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AFF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFter the lINE breaks",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFFectionate mINE",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AFF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	},
+	{
+		"input": "AFter the FINE print",
+		"output": "{\"reasoning\": \"The letters in capitalized in the clue, 'AF' and 'INE' spell out 'AFFINE'. This reference to Affine is a reference to the Affine cipher.\", \"answer\": \"Affine\"}"
+	}
+]

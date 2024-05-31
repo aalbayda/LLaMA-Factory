@@ -1,0 +1,402 @@
+[
+	{
+		"input": "Cryptic Croutons. A Caesar salad favorite has a secret",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The secret to a great Caesar salad",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The secret to a great Caesar salad",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "This is a popular type of salad.",
+		"output": "{\"reasoning\": \"The hint mentions a popular salad. One popular salad is the Caesar salad. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Deciphering the recipe for a tasty Caesar salad",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "My favorite lunch is a Caesar salad",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The key to the encryption is hidden in the Caesar salad",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Food for Thought. I love adding grilled chicken to my Caesar salads!",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Cryptic Cuisine. Have you tried adding croutons to your Caesar salad?",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Decoding Dinner. I prefer my Caesar salads with a light vinaigrette.",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Hail Salad!",
+		"output": "{\"reasoning\": \"'Hail Caesar!' was a common greeting in Ancient Rome. A Caesar salad is a popular type of salad. These two references suggest that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Culinary Cryptography. Caesar salads are a staple in my kitchen!",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Salad Secrets. My favorite salad is a Caesar salad with extra parmesan cheese.",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Encryption is like making a Caesar salad!",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "It's important to eat healthy. A Caesar salad could be the right choice for your breakfast.",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The flag is buried inside this Caesar salad.",
+		"output": "{\"reasoning\": \"The hint mentions a Caesar salad. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "My baby started speaking in tongues! The doctor says it's because of the C-section",
+		"output": "{\"reasoning\": \"The 'C-section' is also known as a caesarean section. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Surviving a C-section can make you start speaking in code",
+		"output": "{\"reasoning\": \"The 'C-section' is also known as a caesarean section. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "C-section encryption",
+		"output": "{\"reasoning\": \"The 'C-section' is also known as a caesarean section. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "After the caesarean delivery, the nurse had to shift her perspective to understand the baby's code...",
+		"output": "{\"reasoning\": \"Because of the word 'Caesar' in 'caesarean delivery', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "They say all cryptographers are born via caesarean delivery",
+		"output": "{\"reasoning\": \"Because of the word 'Caesar' in 'caesarean delivery', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "During a caesarean section, the doctor had to decode the baby's cryptic messages...",
+		"output": "{\"reasoning\": \"Because of the word 'Caesar' in 'caesarean section', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "You found this cipher from a in Caesarea who started speaking in tongues",
+		"output": "{\"reasoning\": \"The name 'Caesarea' contains the word 'Caesar'. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Why so cae-serious?",
+		"output": "{\"reasoning\": \"The word 'cae-serious' is a play on the words 'Caesar' and 'serious'. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "C-sections are only performed when medically necessary, such as when you need to decrypt some code...",
+		"output": "{\"reasoning\": \"The 'C-section' is also known as a caesarean section. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "This cryptographic emergency requires a C-section!",
+		"output": "{\"reasoning\": \"The 'C-section' is also known as a caesarean section. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "This encrypted scroll was found in the ruins of Caesarea...",
+		"output": "{\"reasoning\": \"The name 'Caesarea' contains the word 'Caesar'. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A Caesarean Nightmare",
+		"output": "{\"reasoning\": \"The word 'Caesarean' contains the word 'Caesar'. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A surgical procedure for delivering babies and encrypting text",
+		"output": "{\"reasoning\": \"The answer to the hint has something in common with 'a surgical procedure for delivering babies' and 'encrypting text'. A well-known surgical procedure for delivering babies is the 'caesarean section', while a well-known encryption technique is the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A salad and a Roman dictator",
+		"output": "{\"reasoning\": \"The answer to the hint has something in common with 'a salad' and 'a dictator'. A well-known salad is the 'Caesar salad', while a well-known Roman dictator is 'Julius Caesar'. Therefore the answer is Caesar.\",\"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "We booked a room at Caesars Palace and found a bunch of writings...",
+		"output": "{\"reasoning\": \"'Caesars Palace' contains the word 'Caesar'. Because of the word 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Veni, Vidi, Vici. I came, I saw, I deciphered this cryptic-looking message...",
+		"output": "{\"reasoning\": \"'Veni, Vidi, Vici' is a quote attributed to Julius Caesar. Because of the name 'Caesar', this hint is a reference to the Caesar cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Crossing the Rubicon",
+		"output": "{\"reasoning\": \"'Crossing the Rubicon' is a reference to Julius Caesar, who is known for crossing the Rubicon. This suggests that we should use a Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Ides of March",
+		"output": "{\"reasoning\": \"The Ides of March is the date when Julius Caesar was assassinated.The reference to Caesar suggests that we should use a Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Alia iacta est",
+		"output": "{\"reasoning\": \"'Alia iacta est' is a famous quote by Julius Caesar. The reference to Caesar suggests that we should use a Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+		"output": "{\"reasoning\": \"The hint is a famous quote by Julius Caesar. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The die is cast, now it is time to cast your best decryption attempts",
+		"output": "{\"reasoning\": \"The hint 'the die is cast' is a famous quote by Julius Caesar. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "\"Friends, countrymen, lend me your ears!\"",
+		"output": "{\"reasoning\": \"The hint is a quote found in William Shakespeare's play 'Julius Caesar'. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "\"Et tu, Brute?\"",
+		"output": "{\"reasoning\": \"'Et tu, Brute?' is a quote found in William Shakespeare's play 'Julius Caesar'. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "\"Cry 'Havoc'! and let slip the dogs of war.\"",
+		"output": "{\"reasoning\": \"The hint is a quote found in William Shakespeare's play 'Julius Caesar'. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "\"I came, I saw, I ciphered\"",
+		"output": "{\"reasoning\": \"The hint 'I came, I saw, I ciphered' is a pun on the quote 'I came, I saw, I conquered', which is attributed to Julius Caesar. The reference to Caesar suggests that we should use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Caesar's Conquest of Gaul. When Julius Caesar conquered Gaul, he decided to send a message back to the Romans but used a special encryption to hide it...",
+		"output": "{\"reasoning\": \"The hint directly references Julius Caesar. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Fit for the Imperator",
+		"output": "{\"reasoning\": \"The word 'imperator' is a Latin word that was used to describe the Roman emperors. Another name associated with the Roman emperors is 'Caesar'. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A Julian Cipher",
+		"output": "{\"reasoning\": \"The word 'Julian' is related to the name 'Julius'. This is a reference to Julius Caesar. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "What would Julius do?",
+		"output": "{\"reasoning\": \"The name 'Julius' is a reference to Julius Caesar. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "There is a secret hidden in the Julian calendar.",
+		"output": "{\"reasoning\": \"The Julian calendar was invented by Julius Caesar. Because of this reference to Caesar, the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Julian Cipher",
+		"output": "{\"reasoning\": \"The hint mentions 'Julian'. The word 'Julian' is related to the name 'Julius'. This is a reference to Julius Caesar. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Romans have it figured out",
+		"output": "{\"reasoning\": \"The hint mentions the word 'Romans'. Julius Caesar was a Roman emperor. Therefore the hint about Romans refers to Julius Caesar.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Roman Emperor's New Cipher",
+		"output": "{\"reasoning\": \"The hint includes the phrase 'Roman Emperor'. Another word used to call the Roman Emperor was 'Caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A hidden message for the Roman emperors.",
+		"output": "{\"reasoning\": \"The hint includes the phrase 'Roman Emperor'. Another name used to call a Roman emperor was 'Caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A Roman general sent this message, but it's encrypted!",
+		"output": "{\"reasoning\": \"The hint is about a Roman general. Julius Caesar is a famous example of a Roman general. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Imperial Scroll. Historians have uncovered an ancient scroll used by a Roman emperor but they cannot decrypt it!",
+		"output": "{\"reasoning\": \"The hint mentions a Roman emperor. Another name used to call a Roman emperor was 'Caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "I've taken a stab at this 23 times now...",
+		"output": "{\"reasoning\": \"The hint about 'taking a stab 23 times' is a reference to the assassination of Julius Caesar, who was stabbed 23 times. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "As the Vandals entered Rome, they noticed a strange cipher on the walls...",
+		"output": "{\"reasoning\": \"The hint mentions Rome. Caesar was a common synonym for the Roman emperors. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Bold Cipher. Cowards die many times before their deaths, so don't be a coward and crack this code!",
+		"output": "{\"reasoning\": \"The hint mentions the quote 'Cowards die many times before their deaths', which is a quote in William Shakespeare's play 'Julius Caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "czar",
+		"output": "{\"reasoning\": \"The word 'czar' is a Russian word that is related to the Latin word 'caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "a Roman tsar",
+		"output": "{\"reasoning\": \"The word 'tsar' is a Russian word that is related to the Latin word 'caesar'. The word 'Roman' is a clue about Caesar, as Caesar was a Roman general. These references to Caesar suggest that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Render unto...",
+		"output": "{\"reasoning\": \"The hint is a reference to a quote in the Bible that goes, 'Render unto Caesar the things which are Caesar's'. This reference to Caesar suggests that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "An ancient general and statesman had something to say about this cipher",
+		"output": "{\"reasoning\": \"The hint is about an ancient general and statesman. Julius Caesar is a famous example of a general and statesman from Ancient Rome. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Dictator of Rome",
+		"output": "{\"reasoning\": \"The hint is about a 'Dictator of Rome'. A famous example of a Roman dictator is Julius Caesar. This reference to Caesar suggests that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A secret message from the czar has been intercepted, but it's in rubbish",
+		"output": "{\"reasoning\": \"The word 'czar' is a Russian word that is related to the Latin word 'caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "cesare",
+		"output": "{\"reasoning\": \"The word 'cesare' is an Italian word that is related to the Latin word 'caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Keizer's Code. Crack the code, mijn vriend!",
+		"output": "{\"reasoning\": \"The word 'keizer' is the Dutch word for 'caesar'. This reference to Caesar suggests that the answer is to use a Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Is someone who ceases called a 'ceaser'?",
+		"output": "{\"reasoning\": \"The word 'ceaser' is similar to the word 'caesar'. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Rotations of a Different Kind",
+		"output": "{\"reasoning\": \"The hint mentions 'rotations'. The Caesar cipher works by 'rotating' letters in a message a certain number of times. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A Julian cipher. ROTating wheels make me dizzy!",
+		"output": "{\"reasoning\": \"The hint references 'Julian', which is a name that comes from 'Julius', which refers to Julius Caesar. The title's use of 'ROT' is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher. This references to Caesar suggest that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "I love ROTisserie chicken",
+		"output": "{\"reasoning\": \"The hint places emphasis on 'ROT', which is another name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Decoding the Dutch Mysteries. I once went to ROTterdam and saw a hidden message...",
+		"output": "{\"reasoning\": \"The hint places emphasis on 'ROT', which is another name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "When in Rome, decode as the Romans do...",
+		"output": "{\"reasoning\": \"The hint about Rome and Romans is a reference to Julius Caesar, a famous Roman general. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Rotten Cipher",
+		"output": "{\"reasoning\": \"The word 'rotten' contains the word 'rot', which is a reference to the 'ROT Cipher', also known as the Caesar cipher. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "I'll watch you rot",
+		"output": "{\"reasoning\": \"The word 'rot' in the hint is a reference to the 'ROT Cipher', also known as the Caesar cipher. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Don't let your secrets rot in the open",
+		"output": "{\"reasoning\": \"The use of 'rot' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "This cipher will make your brain rot!",
+		"output": "{\"reasoning\": \"The use of 'rot' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Before encrypting the message, the wicked witch cast a curse: 'I hope you rot!'",
+		"output": "{\"reasoning\": \"The use of 'rot' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "ROTary phones are so old school, just like this cipher",
+		"output": "{\"reasoning\": \"The use of 'ROT' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Apply to our ROTary club now!",
+		"output": "{\"reasoning\": \"The emphasis of 'ROT' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Turn right at the ROTunda",
+		"output": "{\"reasoning\": \"The emphasis of 'ROT' in the hint is a reference to the ROT cipher, which is an alternative name for the Caesar Cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Shift five up",
+		"output": "{\"reasoning\": \"The hint about 'shifting five up' suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Shift ten up",
+		"output": "{\"reasoning\": \"The hint about 'shifting ten up' suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Shift this word by ten",
+		"output": "{\"reasoning\": \"The hint about shifting by ten suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Rotate by 13",
+		"output": "{\"reasoning\": \"The hint about rotating by 13 suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Shift each letter by 4 to reveal the answer!",
+		"output": "{\"reasoning\": \"The hint about shifting by 4 suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "I want A to become B, B to become C, and C to become D...",
+		"output": "{\"reasoning\": \"The hint is about shifting each letter by one, such that A becomes B, B becomes C, C becomes D, and so on. The Caesar cipher is a popular cipher that involves shifting each letter in a message by a certain number of times. Therefore the hint about shifting each letter by one is a reference to the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "A Shifty Dilemma. Shift the ciphertext by 12 to reveal the truth.",
+		"output": "{\"reasoning\": \"The hint about shifting by 12 suggests that the answer involves using a numerical shift. The Caesar cipher is a popular cipher that involves shifting each character in a word by a particular shift. Therefore the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Ides of Encryption",
+		"output": "{\"reasoning\": \"The hint references the famous warning given to Julius Caesar, 'Beware the Ides of March', implying a connection to the Caesar Cipher. Therefore the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Displace each letter by three positions...",
+		"output": "{\"reasoning\": \"The hint is about displacing each letter by a fixed number of positions, which is a key characteristic of the Caesar cipher. This cipher involves shifting each letter in a message by a certain number of times. Therefore the hint about displacing each letter is a reference to the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Move each letter one position forward...",
+		"output": "{\"reasoning\": \"The hint is about moving each letter one position forward, which is a simple example of the shifting process used in the Caesar cipher. This cipher involves moving each letter in a message by a certain number of positions. Therefore the hint about moving each letter forward is a reference to the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Slide the letters by a fixed amount...",
+		"output": "{\"reasoning\": \"The hint is about sliding the letters by a fixed amount, which is another way of describing the shifting process used in the Caesar cipher. This cipher involves sliding each letter in a message by a certain number of positions. Therefore the hint about sliding the letters is a reference to the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": " Offset each character by a certain value...",
+		"output": "{\"reasoning\": \"The hint is about offsetting each character by a certain value, which is a key concept in the Caesar cipher. This cipher involves offsetting each letter in a message by a certain number of positions. Therefore the hint about offsetting each character is a reference to the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Quick, he's having a seizure!",
+		"output": "{\"reasoning\": \"The hint uses the word 'seizure', which is phonetically similar to the word 'Caesar'. This reference to Caesar suggests that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "seizure",
+		"output": "{\"reasoning\": \"The hint uses the word 'seizure', which is phonetically similar to the word 'Caesar'. This reference to Caesar suggests that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "The Scissor Cipher. A cipher invented by Julius Scissor?",
+		"output": "{\"reasoning\": \"The hint uses the word 'scissor', which is pronounced similar to the word 'Caesar'. This reference to Caesar suggests that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Use a Scissor to decrypt this code.",
+		"output": "{\"reasoning\": \"The hint uses the word 'scissor', which is pronounced similar to the word 'Caesar'. 'Julius Scissorhands' is a play on the names 'Julius Caesar' and 'Edward Scissorhands'. These references to Caesar suggest that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "scissor",
+		"output": "{\"reasoning\": \"The hint uses the word 'scissor', which is pronounced similar to the word 'Caesar'. This reference to Caesar suggests that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Seizure Cipher",
+		"output": "{\"reasoning\": \"The hint is 'Seizure Cipher', which is phonetically similar to the word 'Caesar Cipher'. This reference to Caesar suggests that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Roman Empire's secret code",
+		"output": "{\"reasoning\": \"The hint mentions the Roman Empire, which is closely associated with Julius Caesar. This connection to Caesar implies that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Cross the Rubicon to decode",
+		"output": "{\"reasoning\": \"The hint references the famous phrase 'Cross the Rubicon', which is attributed to Julius Caesar's decision to go to war. This reference to Caesar means that the answer is to use a Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Veni, Vidi, Decrypt",
+		"output": "{\"reasoning\": \"The hint is a play on Julius Caesar's famous phrase 'Veni, Vidi, Vici', replacing 'Vici' with 'Decrypt'. This clear reference to Caesar implies that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Shift your thinking like a Roman general",
+		"output": "{\"reasoning\": \"The hint mentions a Roman general, which is a clear reference to Julius Caesar. The phrase 'shift your thinking' also hints at the Caesar cipher's method of shifting letters. Therefore, the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	},
+	{
+		"input": "Et tu, encryption?",
+		"output": "{\"reasoning\": \"The hint references the famous phrase 'Et tu, Brute?' attributed to Julius Caesar, replacing 'Brute' with 'encryption'. This clear reference to Caesar implies that the answer is to use the Caesar cipher.\", \"answer\": \"Caesar\"}"
+	}
+]
